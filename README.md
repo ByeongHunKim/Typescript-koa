@@ -1,3 +1,7 @@
+# initial setting boilerplate
+
+- last updated - 20230209
+
 # Before Start
 
 - node v16.17.1
